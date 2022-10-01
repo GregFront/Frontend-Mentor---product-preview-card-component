@@ -12,8 +12,6 @@ The designs were created to the following widths:
 ### Primary
 
 - Dark cyan: hsl(158, 36%, 37%)
-- Cream: hsl(30, 38%, 92%)
-
 ### Neutral
 
 - Very dark blue: hsl(212, 21%, 14%)
